@@ -4,12 +4,12 @@ A machine learning project for the WGU Capstone class of the Bachelors in Comput
 ## __Project directory setup:__<br/> 
 
 ### __Application Files__<br/>
-\dataSets
-     - \cbbAll.csv
-\debugging
-     - \simulation_debug.log
-\requirements.txt
-\ Main.ipynb 
+\dataSets<br/>
+     - \cbbAll.csv<br/>
+\debugging<br/>
+     - \simulation_debug.log<br/>
+\requirements.txt<br/>
+\ Main.ipynb <br/>
 
 This project is run on a Jupyter notebook from an Anaconda distribution. This provides an easy way to manage and run python scripts.
 To manage software version compatibility, we recommend using the software listed below.
