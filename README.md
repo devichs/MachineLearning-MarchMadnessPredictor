@@ -4,7 +4,7 @@ A machine learning project for the WGU Capstone class of the Bachelors in Comput
 Project directory setup: 
 
 Application Files
------------------
+
 \dataSets
 	\cbbAll.csv
 \debugging
