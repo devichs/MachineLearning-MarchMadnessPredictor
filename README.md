@@ -1,14 +1,13 @@
 # MachineLearning-MarchMadnessPredictor
 A machine learning project for the WGU Capstone class of the Bachelors in Computer Science program.
 
-Project directory setup: 
+## __Project directory setup:__<br/> 
 
-Application Files
-
+### __Application Files__<br/>
 \dataSets
-	\cbbAll.csv
+     - \cbbAll.csv
 \debugging
-	\simulation_debug.log
+     - \simulation_debug.log
 \requirements.txt
 \ Main.ipynb 
 
