@@ -6,9 +6,9 @@ Project directory setup:
 Application Files
 -----------------
 \dataSets
-\cbbAll.csv
+	\cbbAll.csv
 \debugging
-\simulation_debug.log
+	\simulation_debug.log
 \requirements.txt
 \ Main.ipynb 
 
